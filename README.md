@@ -10,6 +10,9 @@
 
 如果你不需要kotlin相关内容，clone下来后移除pom内相关依赖并删除对应文件目录即可。
 
+## **事先声明**
+这里的demo仅供参考，且不是Springboot的demo。如果你想要参考Springboot-starter的demo，可以移步https://github.com/ForteScarlet/simple-robot-demo-cqhttp-sbstarter。
+不过我个人**建议**先了解过此项目后再去考虑springboot。
 
 ## **我要学习**
 你可以通过 **clone/fork** 该项目来学习如何使用`simple-robot`框架。
