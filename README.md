@@ -22,7 +22,7 @@
 如果你想要提交自己的代码来丰富此项目的内容，你首先需要遵守一些约定：
 
 - **提交到对应的路径中**
-java代码提交到java目录下的`love.forte.simbot.demo.lostener.${具有辨识度的包名}`中，而kotlin代码提交到kotlin目录下的`love.forte.simbot.demo.lostener.${具有辨识度的包名}`中。
+java代码提交到java目录下的`love.forte.simbot.demo.listener.${具有辨识度的包名}`中，而kotlin代码提交到kotlin目录下的`love.forte.simbot.demo.listener.${具有辨识度的包名}`中。
 所谓具有辨识度的包名，一般是指你的昵称或者这个包下的监听器的功能。
 - **命名与注释**
 你提交的类/文件一定要有见名知义的命名和详细的说明性注释。
@@ -45,6 +45,14 @@ java代码提交到java目录下的`love.forte.simbot.demo.lostener.${具有辨�
 
 提交到此仓库中的代码可以被任意查看、拷贝、二次使用，如因使用了他人上传的代码而发生了任何不良影响，使用者自行承担导致的任何后果。
 
+
+## 引路石
+
+核心：https://github.com/ForteScarlet/simple-robot-core
+
+文档地址①：http://simple-robot-doc.forte.love/
+
+文档地址②：https://www.kancloud.cn/forte-scarlet/simple-coolq-doc/content
 
 
 
