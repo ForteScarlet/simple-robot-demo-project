@@ -26,14 +26,6 @@
 
     <dependencies>
 
-        <!-- simbot 核心 -->
-        <dependency>
-            <groupId>io.github.ForteScarlet</groupId>
-            <artifactId>simple-robot-core</artifactId>
-            <version>${simbot.core.version}</version>
-        </dependency>
-
-
         <!-- simbot cqhttp 组件 -->
         <dependency>
             <groupId>io.github.ForteScarlet.simple-robot-core</groupId>
@@ -43,17 +35,24 @@
 
 
         <!-- simbot mirai 组件，默认使用cqhttp，而不是mirai -->
-<!--        <dependency>-->
-<!--            <groupId>love.forte.simple-robot-component</groupId>-->
-<!--            <artifactId>component-mirai</artifactId>-->
-<!--            <version>${simbot.comp-mirai.version}</version>-->
-<!--        </dependency>-->
+        <!--        <dependency>-->
+        <!--            <groupId>love.forte.simple-robot-component</groupId>-->
+        <!--            <artifactId>component-mirai</artifactId>-->
+        <!--            <version>${simbot.comp-mirai.version}</version>-->
+        <!--        </dependency>-->
 
         <!-- cqcodeuilts模组，用于操作cq码，比核心自带的cq码工具更好用更高效一些。 -->
         <dependency>
             <groupId>io.github.ForteScarlet.simple-robot-module</groupId>
             <artifactId>mod-cqcodeutils</artifactId>
             <version>${simbot.mod-cqcodeutils.version}</version>
+        </dependency>
+
+        <!-- simbot 核心 -->
+        <dependency>
+            <groupId>io.github.ForteScarlet</groupId>
+            <artifactId>simple-robot-core</artifactId>
+            <version>${simbot.core.version}</version>
         </dependency>
 
         <!-- kotlin -->

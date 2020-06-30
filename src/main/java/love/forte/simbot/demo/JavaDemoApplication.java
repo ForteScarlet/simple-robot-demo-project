@@ -8,6 +8,7 @@ import java.io.IOException;
 /**
  * 通过BaseApplication启动
  * 注意标记 {@link SimpleRobotApplication} 注解
+ *
  * @author <a href="https://github.com/ForteScarlet"> ForteScarlet </a>
  */
 @SimpleRobotApplication
