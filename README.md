@@ -35,7 +35,7 @@ java代码提交到java目录下的`love.forte.simbot.demo.listener.${具有辨�
 
 
 - **代码说明**
-如果你认为上述的**注释部分**比较繁琐，你也可以选择适当的减少注释内容，并在你所提交的包下使用`README.md`文档的形式对你的代码进行统一描述。
+除了注释以外，你需要再你所提交的包下使用`README.md`文档的形式对你的代码进行统一描述。这个描述简单一点儿就可以，例如java路径下的基础demo包[base](./src/main/java/love/forte/simbot/demo/listener/base)那样。
 
 - **注意安全**
     - 不要提交含有攻击性、政治性言论内容的文件。
