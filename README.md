@@ -8,7 +8,7 @@
 ## **项目结构**
 此项目使用 **`Maven`** 构建，代码存在于[src/main](./src/main)目录下。代码目录有java和kotlin两个，每个目录下都有一个存在main方法的启动器类/文件。
 
-如果你不需要kotlin相关内容，clone下来后移除pom内相关依赖并删除对应文件目录即可。
+如果你不需要kotlin相关内容，clone下来或fork后移除pom内相关依赖并删除对应文件目录即可。
 
 ## **事先声明**
 这里的demo仅供参考，且不是Springboot的demo。如果你想要参考Springboot-starter的demo，可以移步https://github.com/ForteScarlet/simple-robot-demo-cqhttp-sbstarter。
