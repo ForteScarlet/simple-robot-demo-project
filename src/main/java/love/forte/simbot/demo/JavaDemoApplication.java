@@ -2,7 +2,6 @@ package love.forte.simbot.demo;
 
 import com.forte.qqrobot.BaseApplication;
 import com.forte.qqrobot.SimpleRobotApplication;
-import com.simbot.component.mirai.MiraiApplication;
 
 import java.io.IOException;
 
