@@ -2,6 +2,7 @@ package love.forte.simbot.demo;
 
 import com.forte.qqrobot.BaseApplication;
 import com.forte.qqrobot.SimpleRobotApplication;
+import com.simbot.component.mirai.MiraiApplication;
 
 import java.io.IOException;
 
@@ -15,5 +16,8 @@ import java.io.IOException;
 public class JavaDemoApplication {
     public static void main(String[] args) throws IOException {
         BaseApplication.runAuto(JavaDemoApplication.class, args);
+
+//        MiraiApplication
+
     }
 }
